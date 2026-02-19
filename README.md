@@ -35,6 +35,7 @@ Expansion Strategy: Focus on Tier 3 locations, which show the highest untapped r
 * Inventory Mix:Increase 'Regular' fat content stock in older supermarkets while testing health-oriented 'Low Fat' bundles in Tier 1 cities.
 * Underperformers: Review outlets established post-2018 that show lower-than-average sales despite high item visibility.
 
----
+<img width="1186" height="677" alt="image" src="https://github.com/user-attachments/assets/ae40ff0d-5be8-46f0-a8b5-a1a67c45def1" />
+
 
 
